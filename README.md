@@ -6,6 +6,14 @@
 
 Не применять максимальную формальность ко всему подряд. Агент выбирает минимально достаточный процесс по предметной области, объёму и сложности работы, техническим особенностям, рискам и ответственности за результат. Пользователь может в любой момент задать режим или усилить надзор над отдельным аспектом.
 
+**Project status:** Active development
+
+**Latest stable release:** `v0.1.0`
+
+**Next planned release:** `v0.2.0`
+
+Development continues between releases. Changes are tracked through Git commits; release versions represent intentionally selected stable milestones.
+
 ## Состав комплекта
 
 - `AGENTS.md` — короткая точка входа. Разместить в корне репозитория или передать агенту вместе с задачей.
